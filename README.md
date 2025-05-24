@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <h1> My Resume </h1>
+</head>
+<body>
+    <h3>Hello my name is Shravani Paygude</h3>
+    <hr>
+    <h2>Education</h2><br>
+    <h3>
+        <ul>
+            <li>10th boards:88.4% - NHSS - 2022</li>
+            <li>12th boards:73% - MVM - 2024</li>
+            <li>MHTCET:96.8% - 2024</li>
+            <li>Currently pursuing b-tech degree in Information Technology from VESIT </li>
+        </ul>
+    </h3>
+    <hr>
+    <h2>Skills</h2>
+    <h3>
+        <ul>
+            <li>Java</li>
+            <li>Web development</li>
+            <li>c++</li>
+        </ul>
+    </h3>
+    <hr>
+    <h2>Achievements</h2>
+    <h3>
+        <ul>
+            <li>Intermediate exam: A grade</li>
+            <li>medals in karate</li>
+        </ul>
+    </h3>
+    <hr>
+    <h2>Other areas of interest</h2>
+    <h3>
+        <ul>
+            <li>Art</li>
+            <li>Creativity</li>
+            <li>Swimming</li>
+        </ul>
+    </h3>
+</body>
+</html>
